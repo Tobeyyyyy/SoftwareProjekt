@@ -1,0 +1,49 @@
+[Files]
+File0=D:\Sicherung\Java\workspace\Softwareprojekt\src\PacmanController.java
+File1=D:\Sicherung\Java\workspace\Softwareprojekt\src\SpeedPowerUp.java
+
+[Box:  - PacmanController]
+X=20
+Y=40
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=9
+FontName=MS Sans Serif
+
+[Box:  - SpeedPowerUp]
+X=320
+Y=93
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=9
+FontName=MS Sans Serif
+
+[Diagram]
+comments=0
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+ShowConnections=0
+Fontname=MS Sans Serif
+Fontsize=9
+ShowObjectDiagram=0
+
+[Connections]
+V0=PacmanController#SpeedPowerUp#Aggregation####0#0#0
+
+[Interactive]
+I0=
+
+[Window]
+Left=104
+Top=104
+Width=1630
+Height=601
+
